@@ -1,4 +1,4 @@
-# First Lab: Setup
+# Using Git
 
 ## Git
 Git is a distributed version control system designed to facilitate modern, multi-party development.
