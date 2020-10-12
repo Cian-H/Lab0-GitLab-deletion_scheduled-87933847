@@ -13,7 +13,9 @@ technology to learn, both from a theoretical perspective, and due to the sometim
 commands.
 
 If you've not used Git before, a simple way to start is by following the "hello world" example below:
+
 <https://guides.github.com/activities/hello-world/>
 
 For a complete tutorial please check resources at: 
+
 <https://try.github.io/>
