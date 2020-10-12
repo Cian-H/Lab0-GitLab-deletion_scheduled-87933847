@@ -12,5 +12,8 @@ repository as needed. While Git is a very popular approach to source control, it
 technology to learn, both from a theoretical perspective, and due to the sometimes-counterintuitive
 commands.
 
-If you've not used Git before, please follow the tutorial below: 
-<https://try.github.io/levels/1/challenges/1>
+If you've not used Git before, a simple way to start is by following the "hello world" example below:
+<https://guides.github.com/activities/hello-world/>
+
+For a complete tutorial please check resources at: 
+<https://try.github.io/>
